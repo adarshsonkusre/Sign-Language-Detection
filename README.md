@@ -14,7 +14,7 @@ The sign language detection system comprises several components and steps:
 
 4. **Training and Testing**: Divides the dataset into training and testing sets to train the model and evaluate its performance. Achieving 99% accuracy on the testing set validates the effectiveness of the model.
 
-5. **Real-time Detection**: trained model cam be implemented to detect and classify sign language gestures in real-time using live camera input.
+5. **Real-time Detection**: Trained model can be implemented to detect and classify sign language gestures in real-time using live camera input.
 
 ## Components Used
 
